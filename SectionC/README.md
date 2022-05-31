@@ -8,8 +8,46 @@
 - Please attempt any one option of the alternatives available from below:
 
 ### Chosen option:
-Option 1: 
 
-Say the Number
+Option 4: 
 
-[Link](https://edabit.com/challenge/4E9gTrRWErpTCA2FQ)
+International Standard Book Numbers
+
+[Link](https://edabit.com/challenge/C5mooK3wfdhoooeLw)
+
+### My Solution
+
+Please see sectionC.js to view my solution. 
+
+I wrote my program in JavaScript, although I know that it is not a suggested language as mentioned above. 
+
+However, it is the language I am most comfortable with.
+
+I would like to up-skill in TypeScript in the near future. But for sake of the time constraint for this take home test I have chosen to complete my task in JavaScript.I hope that this is appropriate and my reasoning understood. 
+
+Thank you.
+
+### Run my program:
+
+#### Terminal / Command prompt
+
+Steps :
+- Open Terminal or Command Prompt.
+- Set Path to where File is Located (using cd).
+- Type “node sectionC.js” and press Enter.
+
+The appropriate test results will be displayed.
+
+#### Using Code Runner Extension
+
+Steps:
+- Open Visual Studio Code
+- Install Code Runner Extension to run JavaScript code without having to open the console and call Node.js manually.
+- After you installed the extension, you just need to open the context menu on the JavaScript file you want to run with right-click, then click on the Run Code menu.
+- But internally, Code Runner also looks for Node.js that’s installed on your local machine, so you need to install Node.js either way.
+
+### Markdown report 
+
+Please see my markdownReport.md file that specifies and justifies the worst-case space complexity of my solution.
+
+### Thank you!
