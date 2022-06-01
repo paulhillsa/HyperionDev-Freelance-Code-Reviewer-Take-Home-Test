@@ -29,6 +29,8 @@ Thank you.
 
 ### Run my program:
 
+Please clone Section C directory to your local machine.
+
 #### Terminal / Command prompt
 
 Steps :
