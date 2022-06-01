@@ -36,8 +36,6 @@ Steps :
 - Set Path to where File is Located (using cd).
 - Type “node sectionC.js” and press Enter.
 
-The appropriate test results will be displayed.
-
 #### Using Code Runner Extension
 
 Steps:
@@ -45,6 +43,25 @@ Steps:
 - Install Code Runner Extension to run JavaScript code without having to open the console and call Node.js manually.
 - After you installed the extension, you just need to open the context menu on the JavaScript file you want to run with right-click, then click on the Run Code menu.
 - But internally, Code Runner also looks for Node.js that’s installed on your local machine, so you need to install Node.js either way.
+
+#### To run the test suite please see the steps below.
+
+### Testing code:
+
+I had written my own testing suite via the use of console.log()'s to display this. 
+
+However, I have written and applied test via Mocha to test my algorithm as I believe this is what was expected. 
+
+Therefore to test my program follow the following steps:
+
+- Clone SectionC directory to your local machine
+- via Terminal / Command Prompt type ``` npm i ``` to install the Mocha testing dependency.
+- Next in either Terminal/Command Prompt type ```npm test``` to run the tests
+- Your Terminal/Command Prompt should state that 5/5 test were successful
+
+*To view the tests in more detail please see ./SectionC/test/test.js
+
+
 
 ### Markdown report 
 
