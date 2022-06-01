@@ -29,7 +29,8 @@ Thank you.
 
 ### Run my program:
 
-Please clone Section C directory to your local machine.
+*Please clone Section C directory to your local machine
+*Please note that you must have Node.js installed on your local machine to run the following program
 
 #### Terminal / Command prompt
 
